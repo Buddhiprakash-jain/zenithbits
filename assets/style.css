@@ -26,7 +26,7 @@
   --shadow-sm: 0 2px 8px rgba(20, 24, 55, 0.06);
   --shadow-md: 0 12px 32px rgba(20, 24, 55, 0.10);
   --shadow-lg: 0 24px 60px rgba(10, 15, 31, 0.18);
-  --container: 1180px;
+  --container: 1360px;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
